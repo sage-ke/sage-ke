@@ -96,7 +96,7 @@ Linux
 ## Education
 
 Bachelor of Science in Mathematics and Physics  
-Meru university os science and technology 
+Meru university of science and technology 
 2022 – 2026
 
 ---
