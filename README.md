@@ -1,6 +1,6 @@
 # Hi, I'm Kelvin Mwangi
 
-Final-year Bachelor of Science student in Mathematics and Physics at the meru univesity of science and technology, Kenya.
+Final-year Bachelor of Science student in Mathematics and Physics at the Meru Univesity of Science and Technology, Kenya.
 
 I build practical systems that combine physics, statistics and software engineering to solve real-world infrastructure problems, especially in water management and environmental monitoring.
 
@@ -96,13 +96,13 @@ Linux
 ## Education
 
 Bachelor of Science in Mathematics and Physics  
-Meru university of science and technology 
+Meru University of Science and Technology 
 2022 – 2026
 
 ---
 
 ## Contact
 
-Email: nderitukelvin17@gmail.com  
+Email: nderitumwangi17@gmail.com  
 Location: Kenya  
 GitHub: https://github.com/sage-ke
